@@ -1,6 +1,6 @@
 # Item-Catalog
 
-This WEB APP is part of the Fullstack Nanodegree Udacity. In this project, it is web application that lists Brands of any kind, here it is sport company, and provide the user the ability to register to add, update and delete their brands or items along with having the ability to use the api and receive json file with all their brands and items.
+This WEB APP is part of the Fullstack Nanodegree Udacity. In this project, it is web application that lists Brands of any kind, here it is sport companies for example, and provide the user the ability to register to add, update and delete their brands or items along with having the ability to use the api and receive json file with all their brands and items.
 ## Requirements
 Tools used in this project are:
 
